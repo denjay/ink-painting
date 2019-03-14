@@ -2,7 +2,7 @@
     "name": "ink-painting",
     "displayName": "Ink Painting",
     "description": "A Warm Color Theme For Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -13,7 +13,7 @@
     "publisher": "denjay",
     "icon": "logo.png",
     "galleryBanner": {
-        "color": "#eb64b9",
+        "color": "#8A4572",
         "theme": "light"
     },
     "categories": [
