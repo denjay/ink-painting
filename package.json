@@ -10,6 +10,7 @@
         "type": "git",
         "url": "https://github.com/denjay/ink-painting"
     },
+    "publisher": "denjay",
     "icon": "logo.png",
     "galleryBanner": {
         "color": "#eb64b9",
